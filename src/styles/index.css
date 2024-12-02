@@ -10,3 +10,53 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.stick {
+    
+    background-color: black;
+    height: 60px;
+    width: 10px;
+    margin: auto;
+}
+
+.trafic-light{
+    display: inline-block;
+    background-color: black;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.yellow-glow{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 9px 10px #6e77d8;
+}
+
+.green{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.buttom{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
